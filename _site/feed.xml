@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Zihan Fang</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-08-15T06:55:26+08:00</updated>
+  <updated>2022-08-15T07:02:48+08:00</updated>
   <author>
     <name>Zihan Fang</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/homepage/" rel="alternate" type="text/html" title="Biography" />
     <published>2022-08-10T14:30:00+08:00</published>
   
-    <updated>2022-08-15T02:36:47+08:00</updated>
+    <updated>2022-08-15T06:55:50+08:00</updated>
   
     <id>http://localhost:4000/posts/homepage/</id>
     <content src="http://localhost:4000/posts/homepage/" />
