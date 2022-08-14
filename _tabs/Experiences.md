@@ -1,7 +1,7 @@
 ---
 #layout: post
 title: Experiences
-#icon: fas fa-tag
+icon: fas fa-tag0
 order: 2
 ---
 
