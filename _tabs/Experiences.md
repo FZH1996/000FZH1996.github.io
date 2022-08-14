@@ -1,7 +1,7 @@
 ---
 #layout: tags
 title: Experiences
-icon: fas fa-tag
+#icon: fas fa-tag
 order: 2
 ---
 
