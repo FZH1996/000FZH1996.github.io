@@ -1,5 +1,5 @@
 ---
-#layout: tags
+#layout: post
 title: Experiences
 #icon: fas fa-tag
 order: 2
