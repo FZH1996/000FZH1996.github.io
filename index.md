@@ -7,7 +7,7 @@ date: 2022-08-10 12:00:00 +0530
 #tags: [Experiences, Publications]
 #pin: true
 icon: fas fa-tag
-order: 2
+order: 1
 ---
 
 I'm Zihan Fang, a graduate student at Fudan University, majoring in Electrical Engineering. 
