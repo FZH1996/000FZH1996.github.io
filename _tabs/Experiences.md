@@ -9,7 +9,7 @@ order: 2
 
 Supervisor: Prof. Qiyong Lu, Department of Electrical Engineering, Fudan University
 
-<img src="/research_area.png" width="1000" height="800" style="max-width: 400px" class="left">
+<img src="/research_area.png" alt="research_area" width="1000" height="800" style="max-width: 400px" class="left">
 
   - The unpredictability of message delays in the synchronization process greatly influence the performance of time synchronization in wireless sensor networks.
   - We propose a joint design of delay compensation and one-way synchronization, which achieves estimation of clock parameters and fluctuated message delays at the same time.
@@ -22,7 +22,7 @@ Supervisor: Prof. Qiyong Lu, Department of Electrical Engineering, Fudan Univers
 
 Supervisor: Prof. Yue Gao, Department of Computer Science, Fudan University
 
-<img src="/FPGA_project.png" alt="Desktop View" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>
+<img src="/FPGA_project.png" alt="FPGA_project" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>
   
   - A PCIe data acquisition board is designed to verify the hardware and algorithm of 8 ADC time interleaved sampling based on Virtex-7 FPGA.
   - 8 ADCs with a sampling rate greater than 50MSPS and a quantization accuracy of 14bits is adopted. 
@@ -36,7 +36,7 @@ Supervisor: Prof. Yue Gao, Department of Computer Science, Fudan University
 
 Primary author: Qing. Yang, Department of Electrical Engineering, Fudan University
 
-<img src="/personal_Reid.png" alt="Desktop View" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>
+<img src="/personal_Reid.png" alt="personal_Reid" width="1000" height="800" style="max-width: 400px" class="left" data-proofer-ignore>
 
   - When persons are occluded by various obstacles, the noise caused by the occluded area greatly affects the pedestrian retrieval results.
   - We propose a semantic-guided alignment model that uses image semantic information to separate useful information from occlusion noise.
